@@ -23,7 +23,6 @@ location: Gotse Delchev, Bulgaria 🇧🇬
 education: Technical University of Sofia — BSc Informatics (2025–2029)
 certified: Software University (SoftUni) — Back-End Software Engineer with C#
 current_focus: Freelance .NET Development & University Studies
-fun_fact: I digitized the entire bus transport system of my hometown
 ```
 
 > I'm a C# developer who ships real software for real clients. With 6+ freelance apps delivered
