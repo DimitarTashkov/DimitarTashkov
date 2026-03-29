@@ -115,6 +115,25 @@ current_focus: Freelance .NET Development & University Studies
 </td>
 </tr>
 <tr>
+  <td width="50%">
+
+### 🌐 [Shooter game](https://github.com/DimitarTashkov/Shooter-Game-Project)
+<p><em>A 2D tactical grid shooter built with Windows Forms, designed as a deep exploration of Advanced OOP, Design Patterns, and LINQ in C#.</em></p>
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+- Clean, intuitive and easy to play
+- Terrain with random enemies
+- Weapons to choose from
+- Variety of enemies and mini-games to play against them
+
+🔗 [Repository](https://github.com/DimitarTashkov/Shooter-Game-Project)
+
+</td>
+
 <td width="50%">
 
 ### 🏨 [Hotel Oazis](https://github.com/DimitarTashkov/Hotel-Oazis)
@@ -132,22 +151,7 @@ current_focus: Freelance .NET Development & University Studies
 🔗 [Repository](https://github.com/DimitarTashkov/Hotel-Oazis)
 
 </td>
-<td width="50%">
 
-### 🌐 [Portfolio Website](https://github.com/DimitarTashkov/Portfolio)
-<p><em>Personal portfolio showcasing projects and skills</em></p>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- Clean, responsive single-page design
-- Project showcase with repo & demo links
-- Skills, education & contact sections
-
-🔗 [Live Site](https://dimitartashkov.github.io/Portfolio/) · [Repository](https://github.com/DimitarTashkov/Portfolio)
-
-</td>
 </tr>
 </table>
 
@@ -167,9 +171,9 @@ current_focus: Freelance .NET Development & University Studies
 | 🦷 | **Dentora** | Dental Clinic | Smart appointment booking, inventory management, prescription & invoice generation, RBAC (Admin/Patient) | N-Layer + DI |
 | 🏎️ | **RetroRides** | Car Museum | Exhibit CRUD, reservation algorithm, integrated gift shop POS, role-based admin | N-Layer + DI |
 | 📸 | **Prisma Studio** | Photo Studio | Real-time booking engine, shopping cart, inventory & sales tracking, RBAC | N-Layer + DI |
-| 🐾 | **ZooZen** | *Details coming soon* | — | N-Layer + DI |
-| 🎭 | **StageNova** | *Details coming soon* | — | N-Layer + DI |
-| 🏗️ | **Resurs-11** | *Details coming soon* | — | N-Layer + DI |
+| 🐾 | **ZooZen** | ZooZen is a Windows Forms desktop application for managing a pet shop. | — | N-Layer + DI |
+| 🎭 | **StageNova** | A desktop dental practice management system built with C# and Windows Forms. | — | N-Layer + DI |
+| 🏗️ | **Resurs-11** | Custom WordPress website for a local fuel delivery business in Sofia, Bulgaria. Product catalog, gallery, SEO optimized, responsive design. | — | N-Layer + DI |
 
 > All projects use **EF Core Code-First**, **Dependency Injection**, and **Service Layer** patterns.
 
