@@ -171,11 +171,9 @@ current_focus: Freelance .NET Development & University Studies
 | 🦷 | **Dentora** | Dental Clinic | Smart appointment booking, inventory management, prescription & invoice generation, RBAC (Admin/Patient) | N-Layer + DI |
 | 🏎️ | **RetroRides** | Car Museum | Exhibit CRUD, reservation algorithm, integrated gift shop POS, role-based admin | N-Layer + DI |
 | 📸 | **Prisma Studio** | Photo Studio | Real-time booking engine, shopping cart, inventory & sales tracking, RBAC | N-Layer + DI |
-| 🐾 | **ZooZen** | ZooZen is a Windows Forms desktop application for managing a pet shop. | — | N-Layer + DI |
-| 🎭 | **StageNova** | A desktop dental practice management system built with C# and Windows Forms. | — | N-Layer + DI |
-| 🏗️ | **Resurs-11** | Custom WordPress website for a local fuel delivery business in Sofia, Bulgaria. Product catalog, gallery, SEO optimized, responsive design. | — | N-Layer + DI |
-
-> All projects use **EF Core Code-First**, **Dependency Injection**, and **Service Layer** patterns.
+| 🐾 | **ZooZen** | Zoo Store | Pet shop desktop management application. Product catalog, shopping cart, checkout with promo codes, invoice generation, admin panel. | N-Layer + DI |
+| 🎭 | **StageNova** | Theatre management app | Theater Management System. Browse plays, book tickets, purchase merchandise, full admin dashboard. | N-Layer + DI |
+| 🏗️ | **Resurs-11** | Fuel distribution company | Custom WordPress website for a local fuel delivery business in Sofia, Bulgaria. Product catalog, gallery, SEO optimized, responsive design. | WordPress + PHP files for Front end + ACF for dynamic content modifications |
 
 ---
 
